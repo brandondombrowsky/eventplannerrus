@@ -17,7 +17,7 @@ The Project Libre (.pod) file in this repo is the schedule and project plan for 
 # Work Breakdown Structure
 [![wbs.png](https://i.postimg.cc/wjpPkdZq/wbs.png)](https://postimg.cc/crFXsPd2)
 
-# Resource Loading, Successors & Predessors
+# Resource Loading, Successors & Predecessors
 [![plan6.png](https://i.postimg.cc/R0vkvzLs/plan6.png)](https://postimg.cc/zyPtk6MK)
 
 [![plan7.png](https://i.postimg.cc/bYGN7QJG/plan7.png)](https://postimg.cc/fkNNXSYZ)
@@ -28,5 +28,5 @@ The Project Libre (.pod) file in this repo is the schedule and project plan for 
 # Earned Value
 [![EV.png](https://i.postimg.cc/T328669k/EV.png)](https://postimg.cc/mtnpYKKM)
 
-# Risk
+# Risk Assessment Using PERT
 [![pert.png](https://i.postimg.cc/Kz2r6Z7j/pert.png)](https://postimg.cc/sBThSCNC)
