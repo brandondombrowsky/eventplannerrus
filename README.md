@@ -1,5 +1,5 @@
 # eventplannerrus
-The .pod file in this repo is the schedule and project plan for a dream wedding using the Agile process in 6 sprints.
+The Project Libre (.pod) file in this repo is the schedule and project plan for a dream wedding using the Agile process in 6 sprints.
 
 # Use Case
 [![usecase.png](https://i.postimg.cc/Y9pSWVfj/usecase.png)](https://postimg.cc/xk4Yr6ZS)
