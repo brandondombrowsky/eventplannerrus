@@ -28,4 +28,4 @@
 [![EV.png](https://i.postimg.cc/T328669k/EV.png)](https://postimg.cc/mtnpYKKM)
 
 # Risk
-[![pert.png](https://i.postimg.cc/zvkdty9q/pert.png)](https://postimg.cc/ctrM6Lxz)
+[![pert.png](https://i.postimg.cc/Kz2r6Z7j/pert.png)](https://postimg.cc/sBThSCNC)
