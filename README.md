@@ -9,6 +9,7 @@
 [![plan2.png](https://i.postimg.cc/TPQcg8M4/plan2.png)](https://postimg.cc/QB95ZyMQ)
 
 # Work Breakdown Structure
+[![wbs.png](https://i.postimg.cc/wjpPkdZq/wbs.png)](https://postimg.cc/crFXsPd2)
 
 # Resource Loading
 
